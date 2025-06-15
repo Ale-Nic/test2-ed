@@ -2005,3 +2005,4 @@ D) Se borra automáticamente
 198. B - p + 1 apunta fuera del objeto; el resultado es indefinido.
 199. C - El post-incremento modifica x a 5.
 200. C - Si no se actualiza, queda como puntero colgante a memoria liberada.
+
